@@ -1,3 +1,79 @@
+/* Imported Typeface Files */
+@font-face {
+    font-family: Lato;
+    src: url(../fonts/sans-serif/lato-regular.ttf);
+    font-style:normal;
+    font-weight:normal;
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url(../fonts/sans-serif/montserrat-regular.ttf);
+    font-style:normal;
+    font-weight:normal;
+}
+
+@font-face {
+    font-family: Opensans;
+    src: url(../fonts/sans-serif/opensans-regular.ttf);
+    font-style:normal;
+    font-weight:normal;
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url(../fonts/sans-serif/roboto-regular.ttf);
+    font-style:normal;
+    font-weight:normal;
+}
+
+@font-face {
+    font-family: NoWayJose;
+    src: url(../fonts/serif/josefinslab-regular.ttf);
+    font-style:normal;
+    font-weight:normal;
+}
+
+@font-face {
+    font-family: RobotoLab;
+    src: url(../fonts/serif/robotoslab-regular.ttf);
+    font-style:normal;
+    font-weight:normal;
+}
+
+@font-face {
+    font-family: Roz;
+    src: url(../fonts/serif/rozhaone-regular.ttf);
+    font-style:normal;
+    font-weight:normal;
+}
+
+@font-face {
+    font-family: Ultra;
+    src: url(../fonts/serif/ultra-regular.ttf);
+    font-style:normal;
+    font-weight:normal;
+}
+
+/* Root */
+
+html {
+    font-size:16px;
+}
+
+h1 {
+    text-align: center;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    text-shadow: .09375rem .09375rem .09375rem #000;
+    letter-spacing: .25rem;
+}
+
+.highlight {
+    color:aqua; 
+}
+
+
+
 /* TO GET AN IDEA OF THE CSS YOU WILL LIKELY BE USING, SEE THE LISTS BELOW. */
 
         /* 
